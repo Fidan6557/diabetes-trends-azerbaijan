@@ -16,7 +16,16 @@ The analysis is centered on **visual storytelling and exploratory data analysis*
 - Composition analysis: Type 1 (insulin-dependent) vs. Type 2 (non–insulin-dependent) diabetes  
 - Relative growth indices (base year 2000)  
 - Registry inflow vs. estimated outflow (attrition proxy)  
-- Context-aware visual annotations and trend-based projections  
+- Context-aware visual annotations and trend-based projections
+
+
+## Repository Files
+| File Name | Description | Interactive View |
+| :--- | :--- | :--- |
+| `IDDA_dataset_task (1).html` | Static HTML report | [🚀 Open in nbviewer](https://nbviewer.org/github/Fidan6557/diabetes-trends-azerbaijan/blob/main/diabetes_analysis.ipynb) |
+| `diabetes_analysis.ipynb` | Source Jupyter Notebook | [📊 Open in nbviewer](https://nbviewer.org/github/Fidan6557/diabetes-trends-azerbaijan/blob/main/diabetes_analysis.ipynb) |
+
+
 
 ## Files
 - **Jupyter Notebook (.ipynb):** Interactive notebook containing all visualizations and insights  
@@ -29,4 +38,5 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly
 All projections and derived metrics are included to support **visual interpretation of trends** and should be considered baseline or exploratory rather than causal or epidemiological forecasts.
 
 👉 **[View Interactive Notebook on nbviewer](https://nbviewer.org/github/Fidan6557/diabetes-trends-azerbaijan/blob/main/IDDA_dataset_task.ipynb)**
+
 
