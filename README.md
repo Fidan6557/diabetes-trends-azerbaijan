@@ -27,3 +27,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
 ## Notes
 All projections and derived metrics are included to support **visual interpretation of trends** and should be considered baseline or exploratory rather than causal or epidemiological forecasts.
+
+👉 **[View Interactive Notebook on nbviewer](https://nbviewer.org/github/Fidan6557/diabetes-trends-azerbaijan/blob/main/IDDA_dataset_task.ipynb)**
+
