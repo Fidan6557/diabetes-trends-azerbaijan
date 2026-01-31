@@ -22,8 +22,8 @@ The analysis is centered on **visual storytelling and exploratory data analysis*
 ## Repository Files
 | File Name | Description | Interactive View |
 | :--- | :--- | :--- |
-| `IDDA_dataset_task (1).html` | Static HTML report | [🚀 Open in nbviewer](https://nbviewer.org/github/Fidan6557/diabetes-trends-azerbaijan/blob/main/diabetes_analysis.ipynb) |
-| `diabetes_analysis.ipynb` | Source Jupyter Notebook | [📊 Open in nbviewer](https://nbviewer.org/github/Fidan6557/diabetes-trends-azerbaijan/blob/main/diabetes_analysis.ipynb) |
+| `IDDA_dataset_task (1).html` | Static HTML report | [🚀 Open in nbviewer](https://nbviewer.org/github/Fidan6557/diabetes-trends-azerbaijan/blob/main/IDDA_dataset_task.ipynb) |
+| `diabetes_analysis.ipynb` | Source Jupyter Notebook | [📊 Open in nbviewer](https://nbviewer.org/github/Fidan6557/diabetes-trends-azerbaijan/blob/main/IDDA_dataset_task.ipynb) |
 
 
 
